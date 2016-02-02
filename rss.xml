@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[James' articles to keep]]></title>
+        <description><![CDATA[James' articles to keep]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 02 Feb 2016 17:45:03 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Setting goals: what to do when you don't feel like doing anything...]]></title>
+            <description><![CDATA[<article><h1>Setting goals: what to do when you don't feel like doing anything...</h1><p>It was Robert Collier who correctly asserted, "Success is the sum of small efforts repeated day in and day out." All of the little actions that you partake in daily are not so little when you come to realize that the sum of those actions becomes your life, that when you add up all of the things that you do, what you are presented with is your life.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/00106958ddca75dcfc01121e9be680a4f7cce451.jpg"></article>]]></description>
+            <link>http://ziglarvault.com/setting-goals-what-to-do-when-you-dont-feel-like-doing-anything/</link>
+            <guid isPermaLink="false">1f29b97d-ae95-446d-b98a-039c49f87419</guid>
+            <pubDate>Tue, 02 Feb 2016 17:45:02 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
