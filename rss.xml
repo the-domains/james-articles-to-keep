@@ -2,13 +2,20 @@
     <channel>
         <title><![CDATA[James' articles to keep]]></title>
         <description><![CDATA[James' articles to keep]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/james-articles-to-keep/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 02 Feb 2016 17:45:03 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 02 Apr 2016 15:42:41 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/james-articles-to-keep/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://cdn.cpnscdn.com/static.coupons.com/ext/kitchme/images/recipes/600x400/baked-garlic-cheddar-chicken_27321.jpg">]]></description>
+            <link>https://thegrid.ai/james-articles-to-keep/6f1b0dd3-b45d-47f6-adf4-22f5d78a4e5f/index.html</link>
+            <guid isPermaLink="false">6f1b0dd3-b45d-47f6-adf4-22f5d78a4e5f</guid>
+            <pubDate>Sat, 02 Apr 2016 15:42:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Setting goals: what to do when you don't feel like doing anything...]]></title>
-            <description><![CDATA[<article><h1>Setting goals: what to do when you don't feel like doing anything...</h1><p>It was Robert Collier who correctly asserted, "Success is the sum of small efforts repeated day in and day out." All of the little actions that you partake in daily are not so little when you come to realize that the sum of those actions becomes your life, that when you add up all of the things that you do, what you are presented with is your life.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/00106958ddca75dcfc01121e9be680a4f7cce451.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Setting goals: what to do when you don't feel like doing anything...</h1><p>It was Robert Collier who correctly asserted, "Success is the sum of small efforts repeated day in and day out." All of the little actions that you partake in daily are not so little when you come to realize that the sum of those actions becomes your life, that when you add up all of the things that you do, what you are presented with is your life.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/90e6133cd10eb6b92dd85243a14f2c9982285a40.jpg"></article>]]></description>
             <link>http://ziglarvault.com/setting-goals-what-to-do-when-you-dont-feel-like-doing-anything/</link>
             <guid isPermaLink="false">1f29b97d-ae95-446d-b98a-039c49f87419</guid>
             <pubDate>Tue, 02 Feb 2016 17:45:02 GMT</pubDate>
